@@ -39,8 +39,8 @@ public class CuadradoTest {
     @Test
     public void testCalcularArea() {
         System.out.println("calcularArea");
-        Cuadrado instance = new Cuadrado(4);
-        double expResult = 16;
+        Cuadrado instance = new Cuadrado(5);
+        double expResult = 25;
         double result = instance.calcularArea();
         assertEquals(expResult, result, 0);
         // TODO review the generated test code and remove the default call to fail.
