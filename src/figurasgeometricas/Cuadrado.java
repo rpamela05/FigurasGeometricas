@@ -11,7 +11,6 @@ public class Cuadrado {
 
     /**
      * Constructor de la clase cuadrado
-     *
      * @param lado El valor del lado del cuadrado
      */
     public Cuadrado(double lado) {
