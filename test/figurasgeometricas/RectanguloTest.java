@@ -63,59 +63,5 @@ public class RectanguloTest {
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
-
-    /**
-     * Test of getAltura method, of class Rectangulo.
-     */
-    @Test
-    public void testGetAltura() {
-        System.out.println("getAltura");
-        Rectangulo instance = null;
-        int expResult = 0;
-        int result = instance.getAltura();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of setAltura method, of class Rectangulo.
-     */
-    @Test
-    public void testSetAltura() {
-        System.out.println("setAltura");
-        int altura = 0;
-        Rectangulo instance = null;
-        instance.setAltura(altura);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of getBase method, of class Rectangulo.
-     */
-    @Test
-    public void testGetBase() {
-        System.out.println("getBase");
-        Rectangulo instance = null;
-        int expResult = 0;
-        int result = instance.getBase();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of setBase method, of class Rectangulo.
-     */
-    @Test
-    public void testSetBase() {
-        System.out.println("setBase");
-        int base = 0;
-        Rectangulo instance = null;
-        instance.setBase(base);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
     
 }
