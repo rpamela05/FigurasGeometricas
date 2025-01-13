@@ -44,6 +44,6 @@ public class Cuadrado {
      * @return El perímetro del cuadrado
      */
     public double calcularPerimetro() {
-        return lado * 4;
+        return lado * 2;
     }
 }
